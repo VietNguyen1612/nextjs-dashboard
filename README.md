@@ -1,2 +1,2 @@
-## Next.js dashboard
+## Next.js dashboard tutorial 
 
